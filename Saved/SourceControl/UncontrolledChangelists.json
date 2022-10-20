@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/Characters/MannequinsXR/Meshes/SKM_MannyXR_left_Physics.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/Characters/MannequinsXR/Meshes/SKM_MannyXR_right_Physics.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/Characters/MannequinsXR/Meshes/SKM_MannyXR_left.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/Characters/MannequinsXR/Meshes/SKM_MannyXR_right.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Blueprints/Weapons/SC_SingleShot.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Blueprints/Weapons/SC_Shotgun.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Blueprints/Weapons/BP_WeaponBase_Master.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Blueprints/Weapons/BP_Shotgun_Master.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Blueprints/Weapons/Pistol.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Blueprints/Weapons/BP_ShotgunBase_Master.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/VRTemplate/Blueprints/Weapons/SC_ShotgunShot.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/Characters/Humans/BPC_Enemy_HumanSoldier.uasset",
+				"D:/Docs/Unreal Projects/GiantRobots_VR/Content/Characters/Humans/BP_Enemy_Master.uasset"
+			]
+		}
+	]
+}

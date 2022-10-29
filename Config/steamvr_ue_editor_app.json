@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.giantrobots_vr-22491701.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Docs/Unreal Projects/GiantRobots_VR/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "GiantRobots_VR-22491701 [UE Editor]"
+				}
+			}
+		}
+	]
+}
